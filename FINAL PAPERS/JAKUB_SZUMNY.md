@@ -37,32 +37,7 @@ At its heart, this platform is a working open project. It is not only to be usef
 ### Conclusion
 This project addresses a real problem in student life, which is the difficulty of affordable and easy travel. The platform’s bundled booking model, combined with many open development practices, makes it an incredibly practical tool, as well as a great community project. Students will not only benefit from an easier booking experience tailored to their needs but also from the opportunity to contribute and learn from this real-world experience. Through modular design, transparent processes, inclusive guidelines, and a strong commitment to working open principles, this platform provides a good example of what open-source software can look like when built with intent. It also demonstrates how open tools can be user-focused and address problems while also serving as an opportunity to learn and collaborate. This project also shows a movement in project management where users are not just customers, but they can also help with the creation of these tools. By allowing students to help with this, the platform allows them to develop skills they can use. With engagement, constant maintenance, and a good community, this could become a great option for students who want to travel easily and affordably.
 
-
-[Comment_1]: <> (begin your text here)
-
-
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
-
-[Comment_3]: <> (begin your text here)
-
-
-[Comment_4]: <> (Insert Figure with caption here)
-    
-
-[Comment_5]: <> (begin your text here)
-
-__Paragraph heading__         
-
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
-
-
-### Conclusion      
-
-[Comment_7]: <> (begin your text here)
-
-
 ### References     
-
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
-
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
+Giacomelli, B. (2022). Program Management for Open Source Projects. Pragmatic Bookshelf. https://www.amazon.com/Program-Management-Open-Source-Projects/dp/1680509241
+Mozilla Science Lab. (2016). Working Open. Mozilla Open Leadership Training Series. http://mozillascience.github.io/open-science-leadership-workshop/01.2-working_open.html
+Open Textbook BC. (2023). Project Management. BCcampus Open Publishing. https://opentextbc.ca/projectmanagement/
