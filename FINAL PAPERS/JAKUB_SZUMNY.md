@@ -39,5 +39,7 @@ This project addresses a real problem in student life, which is the difficulty o
 
 ### References     
 Giacomelli, B. (2022). Program Management for Open Source Projects. Pragmatic Bookshelf. https://www.amazon.com/Program-Management-Open-Source-Projects/dp/1680509241
+
 Mozilla Science Lab. (2016). Working Open. Mozilla Open Leadership Training Series. http://mozillascience.github.io/open-science-leadership-workshop/01.2-working_open.html
+
 Open Textbook BC. (2023). Project Management. BCcampus Open Publishing. https://opentextbc.ca/projectmanagement/
